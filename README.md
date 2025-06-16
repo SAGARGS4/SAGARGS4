@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-💫 About Me  
+# 💫 About Me
+
 🌍 Passionate about building on the web  
 🧩 Exploring the future with Generative AI  
 🎥 Interested in video coding and creative tech  
 💻 Turning ideas into projects, one line at a time  
-📖 Learning something new every day  
+📖 Learning something new every day
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
